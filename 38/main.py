@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.8
 import random, hashlib
 
 from constants import N, g, k

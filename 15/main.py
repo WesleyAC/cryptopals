@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.8
 
 def check_pkcs7(s):
     strip_amount = s[-1]

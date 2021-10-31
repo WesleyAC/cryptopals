@@ -1,4 +1,4 @@
 with import <nixpkgs> {};
 
-(python37.withPackages (ps: with ps; [ pycrypto requests ])).env
+(python38.withPackages (ps: with ps; [ pycrypto requests ])).env
 

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.8
 
 # this code is..... not so good.
 # but i'm tired of thinking about padding, so fuck it, ship it

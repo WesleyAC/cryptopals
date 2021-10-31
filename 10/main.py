@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.8
 
 from Crypto.Cipher import AES
 import base64, codecs
